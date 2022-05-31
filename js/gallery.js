@@ -14,7 +14,7 @@ const selectedColorHeader = document.getElementById("selected__color-header")
 getData()
 
 async function getData() {
-    const resp = await fetch("../data.json")
+    const resp = await fetch("http://myjson.dit.upm.es/api/bins/jaf7")
     const respData = await resp.json()
     return respData
 }
