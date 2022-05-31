@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "header": "test21",
+        "fullPrice": "$340",
+        "perItemPrice": "$170",
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "colors": [{ "purple": "#6e349e" }, { "aqua": "#42daf5" }],
+        "imgs": { "purple": ["https://images.unsplash.com/photo-1650532924043-ace81d44a7f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80", "https://images.unsplash.com/photo-1633765197684-9f5d0b246695?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80", "https://images.unsplash.com/photo-1653389812269-436d8c9426a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"], "aqua": ["https://images.unsplash.com/photo-1573866926487-a1865558a9cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80"] }
+    },
+    {
+        "id": 2,
+        "header": "test1",
+        "fullPrice": "$340",
+        "perItemPrice": "$170",
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "colors": [{ "purple": "#6e349e" }, { "aqua": "#42daf5" }],
+        "imgs": { "purple": ["https://static.thcdn.com/images/small/original//productimg/130/130/13324066-1644896638050059.jpg", "https://static.thcdn.com/images/small/original//productimg/130/130/13324066-6054896988516740.jpg"], "aqua": ["https://static.thcdn.com/images/large/original//productimg/1600/1600/13324067-1224896638086557.jpg"] }
+    }
+]
