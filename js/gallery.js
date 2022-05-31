@@ -14,7 +14,7 @@ const selectedColorHeader = document.getElementById("selected__color-header")
 getData()
 
 async function getData() {
-    const resp = await fetch("http://username.github.io/cls_product_card.v2/data.json")
+    const resp = await fetch("http://p4r4lon.github.io/cls_product_card.v2/data.json")
     const respData = await resp.json()
     return respData
 }
